@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_setting"
+        android:title="Главное меню"
+        />
+    <item
+        android:id="@+id/car_settings"
+        android:title="Автомобили" />
+    <item
+        android:id="@+id/my_room"
+        android:title="Личный кабинет" />
+    <item
+        android:id="@+id/contact_settings"
+        android:title="Контакты" />
+</menu>
